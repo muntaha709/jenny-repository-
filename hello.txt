@@ -1,0 +1,29 @@
+Jenny was here! ✨ This is my first GitHub repo and I’m LOVIN’ it!
+# 🌟 Jenny’s First Repo
+
+> *"Every master was once a beginner."*
+
+Heyyy GitHub! I'm Jenny, and this is the first step in my tech journey 👩‍💻  
+I’m excited, slightly confused (but in a cute way), and totally ready to learn!
+
+---
+
+## 💖 What's in this repo?
+Just me learning how GitHub works!  
+Expect:
+- Happy accidents 🎨
+- Messy commits 🙈
+- Glorious learning moments 💡
+
+---
+
+## 📍Goals:
+- Make my first commit ✅
+- Upload a cool file ✅
+- Learn Git commands 🔄
+- Rule the dev world (eventually) 💅
+
+---
+
+Made with love by  
+**Jenny – The One Woman Code Show™**
